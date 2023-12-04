@@ -28,7 +28,9 @@ Este projeto foi desenvolvido em:
 
 ## 💻 Demonstração
 
-![Projeto-](./src/assets/Projeto6.gif)
+![Projeto-](./src/assets/Projeto6.gif) 
+
+### Você pode testar o site através deste [Link](https://controle-financeiro-psi-seven.vercel.app/)
 
 ## ⚙ Licença
 
